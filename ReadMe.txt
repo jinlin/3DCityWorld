@@ -7,3 +7,6 @@ Requirement:
 
 Technology: 
   Kinecty 3D, HTML5 CANVAS API 
+
+Note:
+  Only newly browser are supported. which means new version of firefox or chrome.
