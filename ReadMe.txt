@@ -1,5 +1,5 @@
 3D WORLD PROJECT 
- DEMO Link: http://www.mixiuzone.com/jinlin/projects/theme.html
+   create a 3d city by using kinecty.js library 
 
 
 Requirement: 
